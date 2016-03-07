@@ -1,4 +1,4 @@
-##### get.random.reads from BAM/SAM files
+### Extract random reads from BAM/SAM files
 
 
 
